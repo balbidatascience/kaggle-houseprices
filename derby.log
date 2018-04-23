@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Apr 14 09:22:46 BRT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0162-c41b-9a8e-000009b94e48 
+on database directory /Users/gabriel/Documents/Work/Portifolio/kaggle-houseprices/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@7a5794c9 
+Loaded from file:/opt/spark/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_151-b12
+user.dir=/Users/gabriel/Documents/Work/Portifolio/kaggle-houseprices
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.13.4
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
